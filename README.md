@@ -19,8 +19,17 @@ I am a Full-Stack Developer from Russia.
 
 ---
 
-### 💻 Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,vscode,php,phpstorm,bootstrap,mysql,git,github,gitlab,unreal,py,pycharm,postgres,anaconda,ts,androidstudio,angular,kotlin,docker,cs,visualstudio,net,java,idea,nodejs&perline=14)](https://skillicons.dev)
+### 💻 Core Skills and Technologies:
+- **Programming Languages:** JavaScript ![JavaScript](https://skillicons.dev/icons?i=js) (Frontend), Python ![Python](https://skillicons.dev/icons?i=py) (Backend) — Full-stack Developer
+- **Previous project experience:** Developed a game in Unreal Engine ![Unreal](https://skillicons.dev/icons?i=unreal)
+- **Basic Technologies and Skills:**
+  - HTML ![HTML](https://skillicons.dev/icons?i=html), CSS ![CSS](https://skillicons.dev/icons?i=css), Bootstrap ![Bootstrap](https://skillicons.dev/icons?i=bootstrap), jQuery ![jQuery](https://skillicons.dev/icons?i=jquery)
+  - Git ![Git](https://skillicons.dev/icons?i=git), GitHub ![GitHub](https://skillicons.dev/icons?i=github), GitLab ![GitLab](https://skillicons.dev/icons?i=gitlab)
+  - MySQL ![MySQL](https://skillicons.dev/icons?i=mysql), PostgreSQL ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+  - Docker ![Docker](https://skillicons.dev/icons?i=docker), Node.js ![Node.js](https://skillicons.dev/icons?i=nodejs)
+  - PHP ![PHP](https://skillicons.dev/icons?i=php), PHPStorm ![PHPStorm](https://skillicons.dev/icons?i=phpstorm), VSCode ![VSCode](https://skillicons.dev/icons?i=vscode), Pycharm ![Pycharm](https://skillicons.dev/icons?i=pycharm), Visual Studio ![Visual Studio](https://skillicons.dev/icons?i=visualstudio), IntelliJ IDEA ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
+  - Android Studio ![Android Studio](https://skillicons.dev/icons?i=androidstudio), Kotlin ![Kotlin](https://skillicons.dev/icons?i=kotlin), Angular ![Angular](https://skillicons.dev/icons?i=angular), TypeScript ![TypeScript](https://skillicons.dev/icons?i=ts), Java ![Java](https://skillicons.dev/icons?i=java)
+  - Anaconda ![Anaconda](https://skillicons.dev/icons?i=anaconda), C# ![C#](https://skillicons.dev/icons?i=cs), .NET ![NET](https://skillicons.dev/icons?i=net)
 
 ---
 
