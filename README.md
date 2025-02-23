@@ -17,7 +17,7 @@ I am a Full-Stack Developer from Russia.
 ---
 
 ### 💻 Core Skills and Technologies:
-- **Programming Languages:** JavaScript ![JavaScript](https://skillicons.dev/icons?i=js) (Frontend), Python ![Python](https://skillicons.dev/icons?i=py) (Backend) — Full-stack Developer
+- **Programming Languages:** JavaScript ![JavaScript](https://skillicons.dev/icons?i=js,react) (Frontend), Python ![Python](https://skillicons.dev/icons?i=py,fastapi) (Backend) — Full-stack Developer
 - **Previous project experience:** Developed a game in Unreal Engine ![Unreal](https://skillicons.dev/icons?i=unreal)
 ---
 
